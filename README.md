@@ -1,8 +1,10 @@
 # NBA Draft Prediction with college stats - A ML approach
 
+**Presentation**: [Click here](https://docs.google.com/presentation/d/e/2PACX-1vT5Zg7E6ThHR5z7zWHHVrwIStPbvbqeWgyDE9_u4ck0e3SkTuj46dTI8r4IIXyQnEV66o60rEgSAZ4T/pub?slide=id.g34fd5b658fc_0_111)
+
 ## Data Description
 
-- Source: Kaggle – College Basketball Players (2009–2021) (ADD LINK)
+- **Source**: [Kaggle – College Basketball Players (2009–2021)](https://www.kaggle.com/datasets/adityak2003/college-basketball-players-20092021/data)
 - Scope: Data from the 2018–19 to 2021–22 seasons
 - Target Variable: pick (drafted or not)
 
