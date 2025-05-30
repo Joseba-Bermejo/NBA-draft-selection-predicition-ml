@@ -1,6 +1,6 @@
 # NBA Draft Prediction with college stats - A ML approach
 
-**Presentation**: [Click here](https://docs.google.com/presentation/d/e/2PACX-1vT5Zg7E6ThHR5z7zWHHVrwIStPbvbqeWgyDE9_u4ck0e3SkTuj46dTI8r4IIXyQnEV66o60rEgSAZ4T/pub?slide=id.g34fd5b658fc_0_111)
+**Presentation**: [Click here](https://docs.google.com/presentation/d/e/2PACX-1vT5Zg7E6ThHR5z7zWHHVrwIStPbvbqeWgyDE9_u4ck0e3SkTuj46dTI8r4IIXyQnEV66o60rEgSAZ4T/pub?slide=id.p125)
 
 ## Data Description
 
